@@ -1,6 +1,3 @@
-# ALGO2-PROYECTO1
-Trabajo practico 1 - Algoritmos y programacion 2 FIUBA
-
 A la hora de leer no todos tenemos nuestros gustos completamente definidos por lo que enfrentarnos a
 la temida pregunta ¿Cuál es tu género o libro favorito? Puede ser una verdadera pesadilla.
 
